@@ -5,8 +5,9 @@
   python3 -m pip show requests 
   
   pip3 install requests
-    or
+    or!!
   python3 -m pip install requests
 
-
   source ProjVenv/bin/deactivate
+
+  some useless junks
